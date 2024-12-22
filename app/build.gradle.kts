@@ -8,7 +8,7 @@ android {
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.edaakyil.app.android.android_screenorientation_sensor"
+        applicationId = "com.edaakyil.app.android.android_layout"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

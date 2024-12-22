@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Android-ScreenOrientation-Sensor"
+rootProject.name = "Android-Layout"
 include(":app")
  
